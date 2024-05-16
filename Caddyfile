@@ -1,0 +1,6 @@
+
+https://localhost {
+  tls internal
+  reverse_proxy nginx:80
+}
+
