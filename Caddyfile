@@ -1,5 +1,4 @@
-
-https://localhost {
+localhost {
   tls internal
   reverse_proxy nginx:80
 }
